@@ -144,7 +144,7 @@
   margin: 2.5em 9.3em 2em;
   font-family: Lato;
   background: #ebebeb;
-  background-image: url(ic_dot_divider.png);
+  background-image: url(ic_dot_divider.webp);
   background-repeat: repeat-x;
   text-align: left;
 }
@@ -2583,7 +2583,7 @@ select::-ms-expand {
 }
 
 .rewards-club .link a:after {
-  background-image: url(ic_sprite1.png);
+  background-image: url(ic_sprite1.webp);
   background-position: -44px 0;
   position: absolute;
   content: "";
@@ -2596,7 +2596,7 @@ select::-ms-expand {
 
 .terms-condition {
   background: #ebebeb;
-  background-image: url(ic_dot_divider.png);
+  background-image: url(ic_dot_divider.webp);
   background-repeat: repeat-x;
   float: left;
   width: 100%;
@@ -10498,7 +10498,7 @@ select::-ms-expand {
 }
 
 .breadcrumb-container .breadcrumb li:first-child a {
-  background-image: url(ic_sprite.png);
+  background-image: url(ic_sprite.webp);
   background-position: -34px -26px;
   width: 25px;
   height: 20px;
@@ -10509,7 +10509,7 @@ select::-ms-expand {
 
 .breadcrumb-container .breadcrumb li+li:before {
   content: "";
-  background-image: url(ic_sprite.png);
+  background-image: url(ic_sprite.webp);
   width: 7px;
   height: 32px;
   position: relative;
@@ -23334,7 +23334,7 @@ body {
   height: 0;
   padding-bottom: 54px;
   text-indent: -999em;
-  background-image: url("/files/brand_logos_sprite_2x_updated_201902_EN_color.png");
+  background-image: url("brand_logos_sprite_2x_updated_201902_EN_color.png");
   background-repeat: no-repeat;
   background-position: .9% -82px;
   background-size: 2626.641651%;
@@ -23342,7 +23342,7 @@ body {
 
 @media only screen and (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi) {
   .uhf_headerFooter .brandBar-link {
-    background-image: url("/files/brand_logos_sprite_2x_updated_201902_EN_color.png");
+    background-image: url("brand_logos_sprite_2x_updated_201902_EN_color.png");
   }
 }
 
